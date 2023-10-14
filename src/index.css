@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-secondary {
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, #0076CE 43.35%, #9400D3 65.11%);
+    -webkit-text-fill-color: transparent;
+  }
